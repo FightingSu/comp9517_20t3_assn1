@@ -1,6 +1,6 @@
 # Assignment description
 
-In this assignment, we are acquired to analyze the quality of the rice in image. Firstly we have to count down the rice in that image, and then evaluate the rice with provided formula.
+In this assignment, we are reqiured to analyze the quality of the rice in image. Firstly we have to count down the rice in that image, and then evaluate the rice with provided formula.
 
 So for the first step, we need to separate rice from the background, and then  use median filter to wipe out the noises in the image. Then finally countdown the number of rice.
 
